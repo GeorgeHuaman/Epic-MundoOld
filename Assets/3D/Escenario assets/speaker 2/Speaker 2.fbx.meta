@@ -1,39 +1,9 @@
 fileFormatVersion: 2
-guid: 08fd2e5f20d1cff4a88796437db375ee
+guid: 0682a108dbfa97b4b861155abb112105
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Chrome
-    second: {fileID: 2100000, guid: 6cfd5c839b2d361409fa6cf7d9c17334, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: floor
-    second: {fileID: 2100000, guid: f1e196a7295c15041bdce9abd1a48d23, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: footings
-    second: {fileID: 2100000, guid: c8c4e7e3c43586a4bb143babeab3836c, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: light_handle
-    second: {fileID: 2100000, guid: 71e2df85808388e47be1849a3b4f468a, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: light_inside_bar
-    second: {fileID: 2100000, guid: 333c23e61d6f1bc48963d590c41d1012, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: light_pot
-    second: {fileID: 2100000, guid: 5addb0cac4e7b2b42bcc32c09da001cb, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
