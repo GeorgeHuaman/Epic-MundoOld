@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fortnite DJ
+* source:	https://sketchfab.com/3d-models/fortnite-dj-e2bb18d0df6747b2b713cfd8eb7d7db7
+* author:	Jesus Dorado (https://sketchfab.com/jesusdorado416)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fortnite DJ" (https://sketchfab.com/3d-models/fortnite-dj-e2bb18d0df6747b2b713cfd8eb7d7db7) by Jesus Dorado (https://sketchfab.com/jesusdorado416) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
