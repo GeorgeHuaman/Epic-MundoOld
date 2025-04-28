@@ -26316,6 +26316,72 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -6264831526926562434, guid: 77b9ccfab364b824ea25ef432eff5a06, type: 3}
+--- !u!1 &1733975247
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1733975249}
+  - component: {fileID: 1733975248}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1733975248
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1733975247}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b97125843def9445685a3abad58b14e2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  environmentSettings:
+    disableTeleport: 1
+    useSeatsAsSpawnPoints: 0
+    enableAvatarToAvatarCollisions: 0
+    enableAvatarRagdolls: 0
+    cameraRotationMode: 0
+    respawnLevelY: -100
+    defaultMovementMaterial: {fileID: 0}
+    disableFirstTutorial: 0
+    initialXRCameraMode: 0
+    allowPlayerToSwitchXRCameraMode: 1
+    virtualizeMouseClickInXR: 1
+    avatarControlSettings: 1
+    localAvatarMovingSpeed: 5
+    localAvatarRunSpeed: 9
+    localAvatarJumpHeight: 1.5
+    localAvatarGravityMultiplier: 1.5
+    localAvatarFallingGravityMultiplier: 1
+    localAvatarUseVariableHeightJump: 1
+    localAvatarMaxJumpCount: 2
+    localAvatarGroundFriction: 1
+    localAvatarAirControl: 1
+--- !u!4 &1733975249
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1733975247}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -401.53296, y: 24.734234, z: 435.52106}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 18
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1737362561
 PrefabInstance:
   m_ObjectHideFlags: 0
