@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Proyectos\\Epic-MundoOld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{307A937A-9148-B42C-D268-E3714B3C8B7F}|CreatorToolkitCustomScripts.csproj|e:\\proyectos\\epic-mundoold\\assets\\scripts\\imageui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{307A937A-9148-B42C-D268-E3714B3C8B7F}|CreatorToolkitCustomScripts.csproj|solutionrelative:assets\\scripts\\imageui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImageUi.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic-MundoOld\\Assets\\Scripts\\ImageUi.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ImageUi.cs",
+              "ToolTip": "E:\\Proyectos\\Epic-MundoOld\\Assets\\Scripts\\ImageUi.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ImageUi.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T20:02:02.705Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

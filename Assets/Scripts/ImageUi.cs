@@ -17,7 +17,7 @@ public class ImageUi : MonoBehaviour
             return;
         }
         images.Clear();
-        for (int i = 0; i < imageWorldParent.transform.childCount; i++)
+        for (int i = 0; i < imageUiParent.transform.childCount; i++)
         {
             GameObject worldChild = imageWorldParent.transform.GetChild(i).gameObject;
             GameObject uiChild = imageUiParent.transform.GetChild(i).gameObject;

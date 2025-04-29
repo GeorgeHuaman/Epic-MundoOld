@@ -296,7 +296,7 @@ SkinnedMeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   serializedVersion: 2
-  m_Quality: 0
+  m_Quality: 1
   m_UpdateWhenOffscreen: 0
   m_SkinnedMotionVectors: 1
   m_Mesh: {fileID: -6789528626522476414, guid: 22016cf628aebce44a8f9c93b4fd3220, type: 3}
@@ -1005,7 +1005,7 @@ SkinnedMeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   serializedVersion: 2
-  m_Quality: 0
+  m_Quality: 1
   m_UpdateWhenOffscreen: 0
   m_SkinnedMotionVectors: 1
   m_Mesh: {fileID: 5510689399736701215, guid: 22016cf628aebce44a8f9c93b4fd3220, type: 3}
@@ -1392,7 +1392,7 @@ Animator:
   m_Enabled: 1
   m_Avatar: {fileID: 9000000, guid: e707c99589a85a34dbeacb04c64fd5dd, type: 2}
   m_Controller: {fileID: 9100000, guid: 1641fc3367a023d46800a22f7acfba93, type: 2}
-  m_CullingMode: 0
+  m_CullingMode: 2
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
@@ -1812,7 +1812,7 @@ SkinnedMeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   serializedVersion: 2
-  m_Quality: 0
+  m_Quality: 1
   m_UpdateWhenOffscreen: 0
   m_SkinnedMotionVectors: 1
   m_Mesh: {fileID: -246405414967571100, guid: 22016cf628aebce44a8f9c93b4fd3220, type: 3}

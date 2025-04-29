@@ -426,7 +426,7 @@ SkinnedMeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   serializedVersion: 2
-  m_Quality: 0
+  m_Quality: 1
   m_UpdateWhenOffscreen: 0
   m_SkinnedMotionVectors: 1
   m_Mesh: {fileID: -5061386510625737810, guid: df579d1a4ac4d394ca8e53254ff1c210, type: 3}
@@ -1052,7 +1052,7 @@ Animator:
   m_Enabled: 1
   m_Avatar: {fileID: 9000000, guid: df579d1a4ac4d394ca8e53254ff1c210, type: 3}
   m_Controller: {fileID: 9100000, guid: cba1362989978c845b6b374e3266fa98, type: 2}
-  m_CullingMode: 1
+  m_CullingMode: 2
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0

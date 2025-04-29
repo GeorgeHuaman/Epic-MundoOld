@@ -432,7 +432,7 @@ Animator:
   m_Enabled: 1
   m_Avatar: {fileID: 9000000, guid: d6ee74abced3a414cb9afb460f4caf4d, type: 2}
   m_Controller: {fileID: 9100000, guid: 87d17e1ff0737c340b3c3fa851ba7487, type: 2}
-  m_CullingMode: 0
+  m_CullingMode: 2
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
@@ -531,7 +531,7 @@ SkinnedMeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   serializedVersion: 2
-  m_Quality: 0
+  m_Quality: 1
   m_UpdateWhenOffscreen: 0
   m_SkinnedMotionVectors: 1
   m_Mesh: {fileID: -4230161321968952707, guid: 7cb561f594225604a94d77e33d94945e, type: 3}
@@ -1279,7 +1279,7 @@ SkinnedMeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   serializedVersion: 2
-  m_Quality: 0
+  m_Quality: 1
   m_UpdateWhenOffscreen: 0
   m_SkinnedMotionVectors: 1
   m_Mesh: {fileID: 5040902755910567546, guid: 7cb561f594225604a94d77e33d94945e, type: 3}
